@@ -18,7 +18,7 @@ export const translations = {
       lightMode: 'Light Mode',
       changeLanguage: 'Change Language',
       phone: 'Phone',
-      footer: 'Created with ❤️ by JLGDevelopment',
+      footer: 'Created with ❤️ by José Leandro Gullo',
     },
     es: {
       name: 'José Leandro Gullo',
@@ -28,6 +28,6 @@ export const translations = {
       lightMode: 'Modo Claro',
       changeLanguage: 'Cambiar Idioma',
       phone: 'Celular',
-      footer: 'Creado con ❤️ por JLGDevelopment',
+      footer: 'Creado con ❤️ por José Leandro Gullo',
     },
   }
