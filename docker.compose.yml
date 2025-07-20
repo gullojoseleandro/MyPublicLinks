@@ -1,0 +1,13 @@
+services:
+  portfolio:
+    build: .
+    container_name: myweb
+    restart: always
+    networks:
+      - nginx-central_default
+    expose:
+      - "80"
+
+networks:
+  nginx-central_default:
+    external: true
