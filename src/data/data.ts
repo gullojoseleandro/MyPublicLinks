@@ -5,8 +5,7 @@ export const links = [
     { name: 'Whatsapp', url: 'https://api.whatsapp.com/send/?phone=3489594918&text&type=phone_number&app_absent=0', icon: FaWhatsapp },
     { name: 'LinkedIn', url: 'https://www.linkedin.com/in/gullo-jose-leandro/', icon: FaLinkedin },
     { name: 'GitHub', url: 'https://github.com/gullojoseleandro', icon: FaGithub },
-    { name: 'Portfolio', url: 'https://gullojl-dev.netlify.app/PortfolioPage', icon: FaBriefcase },
-    { name: 'Curriculum', url: 'https://gullojl-dev.netlify.app/CVPage', icon: FaSheetPlastic },
+    { name: 'Portfolio', url: 'https://portfolio.jlgdev.com', icon: FaBriefcase },
   ]
 
 export const translations = {
